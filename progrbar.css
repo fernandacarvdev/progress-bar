@@ -98,5 +98,5 @@ body{
 
 .btn:disabled{ /*trava do botão*/
     background-color: var(--line-border-empty); /*cor*/
-    /*cursor: not-allowed; /*trava*/
+    cursor: not-allowed; /*trava*/
 }
